@@ -1,4 +1,4 @@
-# REPET-GUI
+# REPET-GUI-Matlab
 
 This repository includes Matlab GUIs to demo the original REPET and REPET-SIM.
 
