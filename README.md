@@ -154,7 +154,7 @@ Functionalities:
 - Play or stop the foreground estimate (see [Play/Stop Foreground](#playstop-foreground)).
 
 
-## References
+# References
 
 - Zafar Rafii, Antoine Liutkus, and Bryan Pardo. "REPET for Background/Foreground Separation in Audio," *Blind Source Separation*, Springer, Berlin, Heidelberg, 2014. [[article](http://zafarrafii.com/Publications/Rafii-Liutkus-Pardo%20-%20REPET%20for%20Background-Foreground%20Separation%20in%20Audio%20-%202014.pdf)]
 
