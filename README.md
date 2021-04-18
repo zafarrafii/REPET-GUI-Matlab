@@ -14,7 +14,7 @@ See also:
 
 ## repet_gui
 
-REPET graphical user interface (GUI).
+Matlab GUI to demo the original REPET.
 
 Functionalities:
 
@@ -96,9 +96,10 @@ Functionalities:
 
 - Play or stop the foreground estimate (see [Play/Stop Mixture](#playstop-mixture)).
 
+
 ## repetsim_gui
 
-REPET-SIM graphical user interface (GUI).
+Matlab GUI to demo REPET-SIM.
 
 Functionalities:
 
