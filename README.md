@@ -96,7 +96,7 @@ Functionalities:
 
 - Play or stop the foreground estimate (see [Play/Stop Mixture](#playstop-mixture)).
 
-## repetsim_gui Matlab GUI
+## repetsim_gui
 
 REPET-SIM graphical user interface (GUI).
 
