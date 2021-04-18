@@ -3,11 +3,16 @@
 Matlab GUIs to demo the original REPET and REPET-SIM.
 
 Files:
-- [repet_gui Matlab GUI](#repet_gui-matlab-gui): Matlab GUI to demo the original REPET.
-- [repetsim_gui Matlab GUI](#repetsim_gui-matlab-gui): Matlab GUI to demo REPET-SIM.
+- [`repet_gui`](#repet_gui): Matlab GUI to demo the original REPET.
+- [`repetsim_gui`](#repetsim_gui): Matlab GUI to demo REPET-SIM.
 - [`audio_file.wav`](#audio_filewav): audio file used for the examples.
 
-## repet_gui Matlab GUI
+See also:
+- [REPET-Matlab](https://github.com/zafarrafii/REPET-Matlab): REPET in Matlab for audio source separation.
+- [REPET-GUI-Matlab](https://github.com/zafarrafii/REPET-GUI-Matlab): Matlab GUIs to demo the original REPET and REPET-SIM.
+- [uREPET-Matlab](https://github.com/zafarrafii/uREPET-Matlab): Matlab GUI for uREPET, a simple user interface system for recovering patterns repeating in time and frequency in mixtures of sounds.
+
+## repet_gui
 
 REPET graphical user interface (GUI).
 
