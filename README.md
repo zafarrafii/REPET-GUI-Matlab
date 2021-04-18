@@ -2,11 +2,10 @@
 
 Matlab GUIs to demo the original REPET and REPET-SIM.
 
-- [repet_gui Matlab GUI](#repet_gui-matlab-gui)
-- [repetsim_gui Matlab GUI](#repetsim_gui-matlab-gui)
-- [References](#references)
-- [Author](#author)
-
+Files:
+- [repet_gui Matlab GUI](#repet_gui-matlab-gui): Matlab GUI to demo the original REPET.
+- [repetsim_gui Matlab GUI](#repetsim_gui-matlab-gui): Matlab GUI to demo REPET-SIM.
+- [`audio_file.wav`](#audio_filewav): audio file used for the examples.
 
 ## repet_gui Matlab GUI
 
